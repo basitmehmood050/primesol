@@ -1,0 +1,6 @@
+{
+  "name": "PrimeSol — AI-Powered Software & Automation",
+  "description": "PrimeSol helps small and growing businesses go digital, automate operations, and use practical AI through websites, web apps, mobile apps, dashboards, and AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
